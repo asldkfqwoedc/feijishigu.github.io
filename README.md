@@ -1,2 +1,2 @@
 # feijishigu.github.io
-飞机小事故
+飞机事故
